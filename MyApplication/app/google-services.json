@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065383213165",
+    "firebase_url": "https://pharmacy-mobile-78ea7.firebaseio.com",
+    "project_id": "pharmacy-mobile-78ea7",
+    "storage_bucket": "pharmacy-mobile-78ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065383213165:android:f058384f76710caa",
+        "android_client_info": {
+          "package_name": "com.apteka.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065383213165-be2o426dhk76h7m9afj97gv6s8d0q6v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzN7WGlCn1MmYONBBTAA_x1KTHd97FmXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
