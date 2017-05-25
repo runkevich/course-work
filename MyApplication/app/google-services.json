@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1065383213165-hahlf5965amer3q5kvon334qggjo4ibc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apteka.pharmacy",
+            "certificate_hash": "5afd090d46aea10d956351f8f9e203125f0fa38d"
+          }
+        },
+        {
           "client_id": "1065383213165-be2o426dhk76h7m9afj97gv6s8d0q6v6.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -22,6 +30,9 @@
       "api_key": [
         {
           "current_key": "AIzaSyAzN7WGlCn1MmYONBBTAA_x1KTHd97FmXg"
+        },
+        {
+          "current_key": "AIzaSyCaZlh9I7mvPsOYLTwxpEJMw6Kwe1-hI2Q"
         }
       ],
       "services": {
@@ -29,8 +40,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065383213165-be2o426dhk76h7m9afj97gv6s8d0q6v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
